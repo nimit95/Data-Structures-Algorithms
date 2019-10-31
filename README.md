@@ -16,6 +16,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our coding guideli
   Like int x; //This is not allowed
 * Same algorithm can be submitted in different languages.
 * Please Fix only one issue in one pull request
+* Squash all the unwanted commits.
 
 ## Authors
 
