@@ -18,7 +18,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our coding guideli
 * Please Fix only one issue in one pull request
 * Squash all the unwanted commits.
 * Always check the combination of algorithm and language is unique.
-
+* Every language file should have a correct file extension.
 ## Authors
 
 See the list of [contributors](https://github.com/CodersForLife/Data-Structures-Algorithms/contributors) who participated in this project.
