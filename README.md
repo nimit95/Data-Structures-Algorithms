@@ -17,6 +17,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our coding guideli
 * Same algorithm can be submitted in different languages.
 * Please Fix only one issue in one pull request
 * Squash all the unwanted commits.
+* Always check the combination of algorithm and language is unique.
 
 ## Authors
 
